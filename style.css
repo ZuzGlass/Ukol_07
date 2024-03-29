@@ -1,0 +1,19 @@
+body  {
+    font-family: sans-serif;
+}
+
+form {
+    background-color: #f1d5ed;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.cervenyRamecek {
+    border: 2px solid red;
+}
+
+input:focus{
+    outline: none;
+}
